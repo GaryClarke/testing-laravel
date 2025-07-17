@@ -25,8 +25,8 @@ This course teaches you how to test your Laravel and Symfony apps confidently an
 Each lesson has its own Git branch:
 
 - `main` – Starting point of the course  
-- `lesson-01`, `lesson-02`, etc. – Completed state at the end of each lesson  
-
+- `1-show-form`, `2-subscribe-feature-test`, etc.
+ 
 You can check out the appropriate branch to match your lesson progress or compare with your own solution.
 
 ---
